@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -fsanitize=address -rdynamic CMakeFiles/Chatclient.dir/clientChatModle.cpp.o CMakeFiles/Chatclient.dir/clientserver.cpp.o CMakeFiles/Chatclient.dir/main.cpp.o -o ../../Chatclient  -lpthread 
